@@ -1,2 +1,2 @@
 # python-racing-game
-High School Graduation Long-Term Project 
+2D Racing Game developed in Python
