@@ -1,1 +1,1 @@
-High School Graduation Long-Term Project
+# High School Graduation Long-Term Project
